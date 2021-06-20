@@ -1,5 +1,4 @@
 
-```
 ---> DLE EOT n
 ---> [Name]
 Real-time status transmission
